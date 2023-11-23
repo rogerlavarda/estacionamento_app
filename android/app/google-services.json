@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "133335110083",
+    "firebase_url": "https://estacionamento-999ab-default-rtdb.firebaseio.com",
+    "project_id": "estacionamento-999ab",
+    "storage_bucket": "estacionamento-999ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133335110083:android:7c92eb224d838cefa22d76",
+        "android_client_info": {
+          "package_name": "ifrs.ibiruba.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqvg3CaDWZO3xPv-YFHu_RotrGgxDyuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
